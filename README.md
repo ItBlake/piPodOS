@@ -1,7 +1,7 @@
 # 🎵 piPodOS  
 *A Godot 4.4 MP3 player for DIY iPods, now available on Windows!*
 
-![screenshot](assets/preview.png) <!-- Optional: add a real screenshot here -->
+![screenshot](Splash.png) <!-- Optional: add a real screenshot here -->
 
 ---
 
