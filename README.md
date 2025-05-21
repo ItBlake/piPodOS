@@ -81,7 +81,7 @@ Built with **Godot 4.4**, piPodOS features a smooth, gradient-based UI and a foc
 
 ## 📦 Download
 
-Get the latest Windows release [**here**]([https://drive.google.com/file/d/1Ij3U4p2rMZ6vy_vOsH2SSZHBgs8Cbwvy/view?usp=drive_link])
+Get the latest Windows release [**here**] [https://drive.google.com/file/d/1Ij3U4p2rMZ6vy_vOsH2SSZHBgs8Cbwvy/view?usp=drive_link]
 
 ---
 
