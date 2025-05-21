@@ -105,8 +105,9 @@ Inspired by the love of music, minimal UI, and the nostalgia of iPods.
 
 <!-- Add actual screenshots if possible -->
 <p align="center">
-  <img src="assets/screenshot1.png" width="300"/>
-  <img src="assets/screenshot2.png" width="300"/>
+  <img src="Main Menu.png" width="320"/>
+  <img src="Volume Menu.png" width="320"/>
+  <img src="Browser Menu.png" width="320"/>
 </p>
 
 ---
