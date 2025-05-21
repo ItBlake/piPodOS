@@ -74,7 +74,7 @@ Built with **Godot 4.4**, piPodOS features a smooth, gradient-based UI and a foc
 ## 🧪 Current Status
 
 - ✅ Windows version is stable and fully functional
-- 🔧 DIY iPod hardware version is in development
+- 🔧 DIY piPod hardware version is in development
 - 🚧 More polish and small feature additions planned
 
 ---
